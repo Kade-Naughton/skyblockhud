@@ -1,0 +1,18 @@
+{
+  "label": "SkyBlock HUD",
+  "tags": [],
+  "requires": [],
+  "version": "0.12.2",
+  "requiredVersions": {
+    "server": ">=0.11.0",
+    "client": ">=0.11.0"
+  },
+  "description": "Hypixel SkyBlock HUD: skills, slayers, dungeons, market and auctions",
+  "author": "kmmn05",
+  "platforms": ["windows", "mac", "linux"],
+  "repository": "",
+  "homepage": "",
+  "updateUrl": "",
+  "id": "skyblockhud",
+  "template": "full"
+}
